@@ -56,7 +56,7 @@ const Signup = () => {
   return (
     <div className="bg-blue-300 min-h-screen w-full flex flex-col md:flex-row">
       {/* Left Section */}
-      <div className="flex flex-col items-center w-full md:w-1/2 bg-white min-h-screen py-8 px-5 md:px-0">
+      <div className="flex flex-col items-center w-full md:w-1/2 bg-white min-h-screen py-5 px-5 md:px-0">
         {/* Company Logo */}
         <div className="w-full mb-5 md:mb-10">
           <h1 className="font-medium text-2xl px-5 md:px-10 text-center md:text-left">
